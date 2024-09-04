@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Meu Site Simples</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+        h1 {
+            color: #333;
+        }
+        p {
+            color: #666;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Bem-vindo ao Meu Site</h1>
+    </header>
+    <main>
+        <section>
+            <h2>Sobre Mim</h2>
+            <p>Olá! Eu sou um estudante aprendendo a criar sites com HTML. Este é um exemplo básico de um site estático.</p>
+        </section>
+        <section>
+            <h2>Minhas Imagens</h2>
+            <img src="imagem-exemplo.jpg" alt="Descrição da Imagem">
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 Meu Site Simples</p>
+    </footer>
+</body>
+</html>
