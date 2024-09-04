@@ -23,7 +23,7 @@
 </head>
 <body>
     <header>
-        <h1>Bem-vindo ao Meu Site</h1>
+        <h1>Felipe Graciano Rosa</h1>
     </header>
     <main>
         <section>
@@ -31,8 +31,8 @@
             <p>Olá! Eu sou um estudante aprendendo a criar sites com HTML. Este é um exemplo básico de um site estático.</p>
         </section>
         <section>
-            <h2>Minhas Imagens</h2>
-            <img src="imagem-exemplo.jpg" alt="Descrição da Imagem">
+            <h2>Minha Escola</h2>
+            <img src="https://www.cobrareporter.com.br/wp-content/uploads/2016/08/colegio-andrea-nuzzi-cambe.jpg" alt="Descrição da Imagem">
         </section>
     </main>
     <footer>
